@@ -29,18 +29,7 @@ Dataset automatically `torchvision` se download ho jata hai, isliye manually dow
 ## Training Results
 - **Accuracy:** ~98% (update with actual)  
 - **Loss Curve:** ![Loss Curve](screenshots/loss_curve.png)  
-- **Sample Predictions:** ![Sample Predictions](screenshots/sample_predictions.png)  
-
-> Note: Screenshots folder me apne training plots aur predictions save karo aur path yahan update karo.
-
----
-
-## How to Contribute
-- Code readability improve karo  
-- Different NN architectures test karo  
-- Results aur accuracy share karo  
-
----
+- **Sample Predictions:** ![Sample Predictions](screenshots/sample_predictions.png)
 
 ## Author
 **Haris Ali Zafar**  
